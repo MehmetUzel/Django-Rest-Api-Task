@@ -16,6 +16,12 @@ Django REST API Task
   python3 thomas_murray/manage.py runserver
   ```
 
+# Test
+
+You can run the tests as follows:
+```
+python3 thomas_murray/manage.py test.
+```
 
 # REST API
 
