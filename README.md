@@ -1,5 +1,5 @@
 # Django-Rest-Api-Task
-Django REST API Task
+Django REST Framework simple API example without model class and db.
 
 # Installation
 
